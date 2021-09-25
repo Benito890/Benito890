@@ -11,7 +11,6 @@
 
 ### À propos de moi
 
- **Je recherche un stage de 6 mois sur les technos React / NodeJS. (à compter de septembre 2021)**<br/><br/>
 👨🏻‍💻   Formé intensivement à la <a href='https://www.wildcodeschool.com/fr-FR'>WildCodeSchool</a> sur React & NodeJS
 
 🎓   Diplômé d'un Master 2 en Ecole de Commerce
